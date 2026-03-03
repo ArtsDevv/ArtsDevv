@@ -2,7 +2,8 @@
 
 👋 Olá! Me chamo Arthur Lobo, estudante de Análise e Desenvolvimento de Sistemas e Bacharel em Comunicação Social.
 
-Busco oportunidades como Estagiário em Desenvolvimento e T.I., aplicando minha capacidade analítica e de comunicação estratégica à tecnologia para a resolução de problemas. Tenho foco na construção de soluções reais, como plataformas de diagnóstico médico com inteligência artificial, marketplaces voltados para pequenos produtores e **automação de processos corporativos (RPA)**.
+Em transição de carreira para a Tecnologia, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e trago uma bagagem sólida em Comunicação Social. Essa combinação me permite não apenas escrever código, mas entender a lógica de negócios e as necessidades do usuário final com clareza.
+Atualmente, estou focado no desenvolvimento Front-end e adentrando o back-end em projetos universitários e próprios. Busco uma oportunidade de estágio em Desenvolvimento ou T.I. para aplicar minha lógica de programação e capacidade analítica, somando a visão estratégica da comunicação à resolução de problemas técnicos.
 
 ## 🌐 Contatos:
 
