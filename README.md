@@ -1,16 +1,15 @@
-## 💫 Sobre Mim:
+## 💫 About Me:
 
-👋 Olá! Me chamo Arthur Lobo, estudante de Análise e Desenvolvimento de Sistemas e Bacharel em Comunicação Social.
+👋 Hi! I'm Arthur Lobo, a Systems Analysis and Development student with a Bachelor's in Social Communication.
 
-Em transição de carreira para a Tecnologia, sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e trago uma bagagem sólida em Comunicação Social. Essa combinação me permite não apenas escrever código, mas entender a lógica de negócios e as necessidades do usuário final com clareza.
-Atualmente, estou focado no desenvolvimento Front-end e adentrando o back-end em projetos universitários e próprios. Busco uma oportunidade de estágio em Desenvolvimento ou T.I. para aplicar minha lógica de programação e capacidade analítica, somando a visão estratégica da comunicação à resolução de problemas técnicos.
+Currently transitioning into Tech, I am studying Systems Analysis and Development at PUC Minas, backed by a solid background in Social Communication. This unique combination allows me to not only write code but also deeply understand business logic and end-user needs with clarity. I am currently focused on Front-end development while expanding into Back-end through university and personal projects. I am seeking an Internship in Development or IT to apply my programming logic and analytical skills, bridging strategic communication with technical problem-solving.
 
-## 🌐 Contatos:
+## 🌐 Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lobo-50a146231/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthur.e.a.lobo@gmail.com)
 
-## 💻 Minhas Tecnologias:
+## 💻 Techs:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,8 +21,8 @@ Atualmente, estou focado no desenvolvimento Front-end e adentrando o back-end em
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Projetos em Destaque:
+## 🚀 Project Highlights:
 
-* **MedGemma Assistente I.A Clínico:** Plataforma de diagnóstico que utiliza a IA de código aberto MedGemma. Desenvolvida com Python no back-end e modelos de deep/machine learning para processar dados e imagens.
-* **Feira Virtual de Pequenos Produtores:** Marketplace acadêmico projetado para conectar produtores locais a consumidores. Desenvolvido utilizando JavaScript, HTML/CSS e integração JSON com APIs REST.
-* **Bot de Automação RPA (Data Entry):** Script Python desenvolvido para automação de cadastro em massa de produtos em sistemas web. Utiliza PyAutoGUI e Pandas para leitura de bases de dados (CSV) e preenchimento de formulários, focado na economia de horas de trabalho manual.
+* **MedGemma – AI Clinical Assistant:** A diagnostic platform powered by the open-source MedGemma AI. Developed with Python on the back-end, utilizing Deep/Machine Learning models to process clinical data and images.
+* **Small Producers Virtual Fair:** An academic project of a marketplace designed to connect local producers with consumers. Built using JavaScript, HTML/CSS, and JSON integration with REST APIs.
+* **RPA Automation Bot (Data Entry):** A Python script developed to automate bulk product registration in web systems. It leverages PyAutoGUI and Pandas for database processing (CSV) and automated form filling, focusing on saving hours of manual labor.
