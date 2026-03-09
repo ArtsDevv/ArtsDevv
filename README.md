@@ -24,5 +24,7 @@ Currently transitioning into Tech, I am studying Systems Analysis and Developmen
 ## 🚀 Project Highlights:
 
 * **MedGemma – AI Clinical Assistant:** A diagnostic platform powered by the open-source MedGemma AI. Developed with Python on the back-end, utilizing Deep/Machine Learning models to process clinical data and images.
+
 * **Small Producers Virtual Fair:** An academic project of a marketplace designed to connect local producers with consumers. Built using JavaScript, HTML/CSS, and JSON integration with REST APIs.
+  
 * **RPA Automation Bot (Data Entry):** A Python script developed to automate bulk product registration in web systems. It leverages PyAutoGUI and Pandas for database processing (CSV) and automated form filling, focusing on saving hours of manual labor.
