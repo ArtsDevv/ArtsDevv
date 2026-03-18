@@ -13,6 +13,20 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
 
 ---
 
+## 🚀 Project Highlights
+
+* **🛒 Small Producers Virtual Fair (Full-Stack E-commerce)**
+  A complete marketplace designed to connect local producers with consumers, eliminating supply chain intermediaries.
+  * **Front-end:** Dynamic UI built with HTML5, CSS3, and Vanilla JavaScript, utilizing the `fetch` API for asynchronous data rendering and DRY architecture principles.
+  * **Back-end & DB:** RESTful API developed in **Python (FastAPI)** integrated with a **MySQL** relational database for efficient CRUD operations, data persistence, and secure CORS middleware.
+  * **Architecture Roadmap:** Currently transitioning to a microservices architecture, implementing an API Gateway with **Node.js** and transactional processing with **Java (Spring Boot)**.
+
+* **⚕️ MedGemma – AI Clinical Assistant** A diagnostic platform powered by the open-source MedGemma AI. Developed with Python on the back-end, utilizing Deep/Machine Learning models to process clinical data and images.
+
+* **🤖 RPA Automation Bot (Data Entry)** A Python script developed to automate bulk product registration in web systems. It leverages PyAutoGUI and Pandas for database processing (CSV) and automated form filling, focusing on saving hours of manual labor.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <br>
@@ -34,17 +48,3 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7&height=120&section=footer" width="100%"/>
-
----
-
-## 🚀 Project Highlights
-
-* **🛒 Small Producers Virtual Fair (Full-Stack E-commerce)**
-  A complete marketplace designed to connect local producers with consumers, eliminating supply chain intermediaries.
-  * **Front-end:** Dynamic UI built with HTML5, CSS3, and Vanilla JavaScript, utilizing the `fetch` API for asynchronous data rendering and DRY architecture principles.
-  * **Back-end & DB:** RESTful API developed in **Python (FastAPI)** integrated with a **MySQL** relational database for efficient CRUD operations, data persistence, and secure CORS middleware.
-  * **Architecture Roadmap:** Currently transitioning to a microservices architecture, implementing an API Gateway with **Node.js** and transactional processing with **Java (Spring Boot)**.
-
-* **⚕️ MedGemma – AI Clinical Assistant** A diagnostic platform powered by the open-source MedGemma AI. Developed with Python on the back-end, utilizing Deep/Machine Learning models to process clinical data and images.
-
-* **🤖 RPA Automation Bot (Data Entry)** A Python script developed to automate bulk product registration in web systems. It leverages PyAutoGUI and Pandas for database processing (CSV) and automated form filling, focusing on saving hours of manual labor.
