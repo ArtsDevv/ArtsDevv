@@ -21,7 +21,7 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
   * **Back-end & DB:** RESTful API developed in **Python (FastAPI)** integrated with a **MySQL** relational database for efficient CRUD operations, data persistence, and secure CORS middleware.
   * **Architecture Roadmap:** Currently transitioning to a microservices architecture, implementing an API Gateway with **Node.js** and transactional processing with **Java (Spring Boot)**.
 
-* **⚕️ MedGemma – AI Clinical Assistant** A diagnostic platform powered by the open-source MedGemma AI. Developed with Python on the back-end, utilizing Deep/Machine Learning models to process clinical data and images.
+* **⚕️ MedGemma – AI Clinical Assistant** A multimodal diagnostic support platform powered by the open-source MedGemma AI model. Developed with Next.js and Tailwind CSS for a minimalist front-end experience, and a FastAPI (Python) back-end utilizing Deep Learning models for advanced clinical data and medical image processing.
 
 * **🤖 RPA Automation Bot (Data Entry)** A Python script developed to automate bulk product registration in web systems. It leverages PyAutoGUI and Pandas for database processing (CSV) and automated form filling, focusing on saving hours of manual labor.
 
