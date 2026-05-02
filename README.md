@@ -15,11 +15,13 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
 
 ## 🚀 Project Highlights
 
-* **🛒 Small Producers Virtual Fair (Full-Stack E-commerce)**
-  A complete marketplace designed to connect local producers with consumers, eliminating supply chain intermediaries.
+* **🛒 Small Producers Virtual Fair (Academic Full-Stack E-commerce)**
+  A complete academic marketplace designed to connect local producers with consumers, eliminating supply chain intermediaries.
   * **Front-end:** Dynamic UI built with HTML5, CSS3, and Vanilla JavaScript, utilizing the `fetch` API for asynchronous data rendering and DRY architecture principles.
   * **Back-end & DB:** RESTful API developed in **Python (FastAPI)** integrated with a **MySQL** relational database for efficient CRUD operations, data persistence, and secure CORS middleware.
   * **Architecture Roadmap:** Currently transitioning to a microservices architecture, implementing an API Gateway with **Node.js** and transactional processing with **Java (Spring Boot)**.
+
+* **🤝 Conexão Solidária & Web API Development (ASP.NET MVC)** Collaborative platform and back-end services developed with **C#** and **ASP.NET MVC** architecture. Designed to connect victims of natural disasters with donors, the back-end focuses on a clean separation of concerns (Model-View-Controller), robust routing, and structured database modeling to ensure reliable user interactions and scalable data management.
 
 * **⚕️ MedGemma – AI Clinical Assistant** A multimodal diagnostic support platform powered by the open-source MedGemma AI model. Developed with Next.js and Tailwind CSS for a minimalist front-end experience, and a FastAPI (Python) back-end utilizing Deep Learning models for advanced clinical data and medical image processing.
 
@@ -38,6 +40,7 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
