@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Arthur Lobo, a Systems Analysis and Development student with a Bachelor's in Social Communication.
 
-Currently studying at PUC Minas, I am transitioning into Tech with a unique advantage: my background in Social Communication allows me to not only write clean, efficient code but also deeply understand business logic, user experience, and product strategy.
+Studying at PUC Minas, I am transitioning into Tech with a unique advantage: my background in Social Communication allows me to not only write clean, efficient code but also deeply understand business logic, user experience, and product strategy.
 
 I'm currently a **Back-End Development Intern at Delta Global Bank**, where I work on production Java/Spring Boot services for a banking platform — building REST APIs following vertical slice architecture, PostgreSQL persistence with Flyway migrations, and unit testing with JUnit 5 + Mockito. This role is deepening my hands-on experience with enterprise backend patterns, secure data handling, and real-world software engineering practices.
 
