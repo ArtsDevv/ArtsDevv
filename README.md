@@ -2,9 +2,11 @@
 
 👋 Hi! I'm Arthur Lobo, a Systems Analysis and Development student with a Bachelor's in Social Communication.
 
-Currently studying at PUC Minas, I am transitioning into Tech with a unique advantage: my background in Social Communication allows me to not only write clean, efficient code but also deeply understand business logic, user experience, and product strategy. 
+Currently studying at PUC Minas, I am transitioning into Tech with a unique advantage: my background in Social Communication allows me to not only write clean, efficient code but also deeply understand business logic, user experience, and product strategy.
 
-I am evolving as a **Full-Stack Developer**, building dynamic web applications with robust back-ends and relational databases. I am actively seeking an Internship in Development or IT where I can apply my programming logic and analytical skills, bridging strategic communication with technical problem-solving.
+I'm currently a **Back-End Development Intern at Delta Global Bank**, where I work on production Java/Spring Boot services for a banking platform — building REST APIs following vertical slice architecture, PostgreSQL persistence with Flyway migrations, and unit testing with JUnit 5 + Mockito. This role is deepening my hands-on experience with enterprise backend patterns, secure data handling, and real-world software engineering practices.
+
+I am actively seeking new opportunities in Development or IT where I can keep applying my programming logic and analytical skills, bridging strategic communication with technical problem-solving.
 
 ## 🌐 Let's Connect
 
@@ -14,6 +16,12 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
 ---
 
 ## 🚀 Project Highlights
+
+* **🏦 Payroll CRUD & Encryption (Delta Global Bank — Internship)**
+  Backend feature work on a production Java/Spring Boot banking service: full CRUD for an employee/payroll domain following vertical slice architecture (`domain` / `features` / `infrastructure`).
+  * **Persistence:** JPA entities and repositories over **PostgreSQL**, with **Flyway** migrations and JPQL queries (including correlated subqueries for status filtering).
+  * **Security:** Sensitive salary data encrypted at rest with **AES-GCM** (`javax.crypto`), with keys managed outside version control.
+  * **API design:** REST endpoints with Spring Security role-based authorization (`@PreAuthorize`), centralized exception handling, and request/response DTOs decoupled from the domain model.
 
 * **🛒 Small Producers Virtual Fair (Academic Full-Stack E-commerce)**
   A complete academic marketplace designed to connect local producers with consumers, eliminating supply chain intermediaries.
@@ -42,6 +50,7 @@ I am evolving as a **Full-Stack Developer**, building dynamic web applications w
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring" />
