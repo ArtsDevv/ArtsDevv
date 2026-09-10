@@ -51,13 +51,10 @@ I am actively seeking new opportunities in Development or IT where I can keep ap
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
 </div>
 
